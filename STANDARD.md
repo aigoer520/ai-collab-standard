@@ -1,6 +1,6 @@
 # AI 协作对齐规程
 
-**Alignment Protocol for AI Collaboration · v1.0（草案）**
+**Alignment Protocol for AI Collaboration · v1.0**
 
 本文件是唯一正本。技能版、AGENTS.md 形态版等发行形式都是本文件的镜像；修订只改本文件，再同步镜像。
 

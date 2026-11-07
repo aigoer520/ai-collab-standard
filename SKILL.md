@@ -2,7 +2,7 @@
 name: ai-collab-protocol
 description: AI 协作对齐规程（技能版）：让 AI 助手按固定规矩与用户长期协作——先对齐后执行、不许推断、回答格式与要求、收尾调整机制、交叉印证、完成前验证、冲突优先级。Use when a user wants their AI assistant to follow a standing collaboration protocol, asks to install or apply 《AI 协作对齐规程》, or when starting long-term project work that needs alignment-first behavior. 正本为同仓 STANDARD.md，本文件是其技能镜像。
 metadata:
-  standard: AI 协作对齐规程 v1.0（草案）
+  standard: AI 协作对齐规程 v1.0
   canonical: STANDARD.md
 ---
 

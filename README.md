@@ -1,6 +1,6 @@
 # AI 协作对齐规程
 
-**Alignment Protocol for AI Collaboration · v1.0（草案）**
+**Alignment Protocol for AI Collaboration · v1.0**
 
 一套让 AI 助手按固定规矩长期协作的规程：先对齐再动手、不许编造、回答有格式、改动不漏项。别的用户拿到后，按安装说明把核心层粘贴到自己的 AI 助手，即可生效。
 
