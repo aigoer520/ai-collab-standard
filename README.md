@@ -20,7 +20,7 @@
 |---|---|
 | [STANDARD.md](STANDARD.md) | 规程正本：核心层 7 条＋可选层 6 条＋占位符＋安装说明＋生效验证＋附录案例 |
 | CHANGELOG.md | 修订记录 |
-| SKILL.md | 技能版（制作中，随后补上） |
+| SKILL.md | 技能版：按 Agent Skills 官方规范写的 SKILL.md，可整体装入支持技能的助手 |
 
 ## 快速开始（三步）
 
